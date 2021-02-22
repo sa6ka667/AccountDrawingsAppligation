@@ -13,7 +13,11 @@
     require_once(ROOT.'/components/Db.php');
 
     //DATABASE CONNECTION
-
+    //dvkdfovndfonv
+    //evfvfvfvdfvev
+    //fevwervrfbvrfbv
+    //wefvrfbvwrebvdsfbw
+    //wfbwefbvewbvwebve
     // CALL OF ROUTER
     $router = new Router();
     $router->run();
